@@ -1,1 +1,12 @@
-Yo! It's me again, I just want to say that the next update is almost out and ready. There is one major bug that is causing the update to be delayed, but im working as hard and as fast as I can to make sure it's a good update and people will enjoy it. Anyway, feel free to report people in our discord (https://discord.gg/3ywTnTkGSu) See ya!
+Ayyyyyyy! Update time baby!!! This one so far is the longest update of all i took me a while and i added a bunch of stuff. the new/changed stuff is
+-changed circles in zero gravity to cubes
+-added a board with players names that (sometimes) works
+-replaced flashlight light with lightsaber (flashlight would cause lag if a lot of people had it on)
+-added COLORS!!! check out the boarded up zone for the new colors. Also the moderators have found a way to travel through these new vents.
+-new (nerd stuff) inverse kinematics system so the arms don't freak out anymore over time.
+-buying cosmetics actually works now, so be smart on what you buy.
+-new music in mines
+-added a filter so people can not put their names as very bad things
+-made ban evasion harder to do (please dont do it)
+and some other small tweaks and fixes that dont need to be talked about. Anyway, feel free to report people in
+our discord (https://discord.gg/3ywTnTkGSu) See ya!
