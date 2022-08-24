@@ -1,18 +1,11 @@
-New Update!!! This Update Includes
--sandland is now known as snow land
--made the hands smaller
--new shop design
--new zero gravity tunnel
--something is happening in The Underground
--hands don't clip through things anymore
--new cosmetics
--moderators can now go in and out of vents easily
--new leaderboard system (thanks to moonlight)
--slippery stuff should be harder to move on
--the zero gravity glitch should be fixed (haven't tested it)
--other small bug fixes
+Hey New Update For The Horror Mode And some small stuff for the main map
+
+-horror mode actually has an objective now
+-3 horror monkeys
+-changed vent to dirt in horror mode
+-added mini-map
+-AI will now sprint at you if they get close to you
+-fixed zero gravity glitch
+-fixed the issue where everyone had the vents
 
 the reason you can't hear people in game is due to the servers. I don't pay for servers but I'm gonna have to start doing so. Your probably thinking what does that mean? It means I need to make money off of the game.
-
-oops everyone has the vents
-Anyway, feel free to report people in our discord (https://discord.gg/capuchin) See ya!
