@@ -1,13 +1,20 @@
-Hey New Update For The Horror Mode And some small stuff for the main map
-
--horror mode actually has an objective now
--3 horror monkeys
--changed vent to dirt in horror mode
--added mini-map
--AI will now sprint at you if they get close to you
--fixed zero gravity glitch
--fixed the issue where everyone had the vents
-
-the reason you can't hear people in game is due to the servers. I don't pay for servers but I'm gonna have to start doing so. Your probably thinking what does that mean? It means I need to make money off of the game.
+Yo!! Sorry it been a while since a new update bu its here now!
+-phase 2 and 3 for the horror mode
+-reporting
+-in app purchasing is now avalible
+-fixed buying for cosmetics
+-fixed vent glitch
+-new stump
+-the scary capuchin in the mines has escaped but is no where to be found
+-new cosmetics
+-changed golden banana to silver banana
+-more people per server
+-voice chat MIGHT be fixed
+-colors were moved to the PC
+-new hangout room
+-walter white?
+-fish game collab
+-mini PC on the small pc that tells you if your in a server or not
+-zero gravity glitch fix
 
 Btw discord server is https://discord.gg/3ywTnTkGSu
