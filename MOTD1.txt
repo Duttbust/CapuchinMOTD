@@ -1,1 +1,12 @@
-I am aware of the crashing issue, it should be fixed this weekend.
+Sorry for the wait, but the update is finally out
+
+-new zero gravity features
+-networked hit sounds 
+-fixed crashing and lagging
+-new queues
+-new lighting system
+-campfire makes noises
+-new trees
+-other things
+
+By the way, the lava queue does nothing. It's normal and mini games,expect a new patch soon.
