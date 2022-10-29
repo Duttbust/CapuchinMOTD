@@ -1,14 +1,4 @@
-Hey! I know its a little early, but who doesn't love fall! It is now fall in the capuchin maps, even a new map!
+Quick fix
 
--new map sandland
--Halloween cosmetics are staying but the sign is gone and they have been merged with the main cosmetics
--new cosmetics
--fixed horror mode
--removed networked hand sounds due to large server issues
--new board to show the number of bananas you have (you can still see them on the ATM)
--zero gravity is MUCH bigger now as requested
--better performance
--game now plays on 90HZ instead of 72HZ
--the store manager has been reported missing
--caves is now brighter
--when you join a server game does not freeze then disconnect you
+-fixed mines wall glitch
+-fixed zero gravity glitch
