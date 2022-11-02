@@ -1,1 +1,5 @@
-New update! They shop keeper has escaped and is wndering mines, becareful so he doesn't get you. ever
+Quick fix with new features
+
+-Added Roomba in shop
+-AI will not get stuck at the entrance anymore
+-AI will explore more now
