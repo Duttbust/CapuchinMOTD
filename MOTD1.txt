@@ -7,5 +7,5 @@ New update, nothing to big just some bug fixes
 -nerf darts are now more physics based
 -mod vents are easier to open and close
 -zero gravity music is back
--more preformance fixes
+-more performance fixes
 -ATM was moved to the shop upstairs
