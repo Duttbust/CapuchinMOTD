@@ -1,11 +1,1 @@
-New update, nothing to big just some bug fixes
-
--Dave now will chase anyone, just depends on how close
--new beeper in mines that tells you how close or far Dave is
--new shop design
--nerf gun will delete darts after 5 seconds
--nerf darts are now more physics based
--mod vents are easier to open and close
--zero gravity music is back
--more performance fixes
--ATM was moved to the shop upstairs
+Just a quick message that there is currently a public beta for testing, join the discord at discord.gg/capuchin for more info
