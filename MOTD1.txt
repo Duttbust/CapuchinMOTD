@@ -18,3 +18,8 @@ Merry Christmas! We've been working on a pretty large update for a while now. So
 -blue beds
 -capuchin material nows has shadows
 -new metal material
+
+---Fix---
+-fixed lag in LVL2
+-ai can't enter the safe room anymore
+-no more water and less red color
