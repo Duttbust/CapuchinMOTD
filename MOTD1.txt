@@ -1,3 +1,21 @@
-Yo! Some backend stuff is going on later tonight and caring over through out the days between 12/29/22 - 12/31/22
+Happy New Year Everyone! Hope you all have a good 2023! Servers are backup and so is PlayFab. I've planned a little update for you all!
 
-Photon is coming down till next update, It will be back up in approximately 1 - 3 days, sit tight until then, sorry about this. Just being safe from modders and others
+Due to some recent issues, everyone is getting a free 5000 bananas on first login! Spend them wisely :)
+
+-Added a little window behind the mirror
+-Network finger movements
+-Fireworks (no muting lol)
+-New years cosmetics
+-Movement changes for faster movement
+-Fish Game Ads in some areas
+-New sizeable text on Message Of The Day board
+-Night and lit campfire
+-fixed zero gravity glitch
+-changed mirror to be more like a mirror
+-changed shader in level 2
+-fixed random controller freezing
+-fixed quest pro support issue
+-No Longer Christmas
+-PlayFab fixes
+
+Happy New Year Everyone! Have an amazing year!
