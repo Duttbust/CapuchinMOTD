@@ -19,3 +19,5 @@ Due to some recent issues, everyone is getting a free 5000 bananas on first logi
 -PlayFab fixes
 
 Happy New Year Everyone! Have an amazing year!
+
+Fix - Playfab and lower Photon traffic usage
